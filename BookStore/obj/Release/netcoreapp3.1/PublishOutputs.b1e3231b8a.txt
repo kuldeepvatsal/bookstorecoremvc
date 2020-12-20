@@ -1,0 +1,7 @@
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\BookStore.exe
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\BookStore.dll
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\BookStore.deps.json
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\BookStore.runtimeconfig.json
+D:\KuldeepDotnetCore\BookStore\BookStore\obj\Release\netcoreapp3.1\PubTmp\Out\BookStore.pdb
