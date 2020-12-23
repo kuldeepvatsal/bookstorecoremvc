@@ -8,7 +8,10 @@ namespace BookStore.Controllers
 {
     public class HomeController:Controller
     {
-        public string Index() =>  "Kuldeep";
+        public ViewResult Index()
+        {
+            return View();
+        }
        
     }
 }
